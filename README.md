@@ -1,4 +1,4 @@
-# 🎨 Barevné výstupy v konzole (ANSI Escape Codes)
+# 🎨 Barevné výstupy v konzoli (ANSI Escape Codes)
 
 Barevné výstupy umožňují **zvýraznit text**, upozornit na chyby,
 zobrazit výstup přehledněji a přidat vizuální prvky do programů (v Bash,
@@ -9,7 +9,7 @@ Pythonu i dalších jazycích).
 
 ------------------------------------------------------------------------
 
-## 🎥 Doporučené video (ANSI Colors)
+## 🎥 Video (ANSI Colors)
 
 [![YouTube - Terminal Colors &
 Formatting](https://img.youtube.com/vi/PKfM4GvWCYc/0.jpg)](https://www.youtube.com/shorts/PKfM4GvWCYc)
