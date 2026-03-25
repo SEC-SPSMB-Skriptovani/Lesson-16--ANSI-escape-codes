@@ -51,7 +51,7 @@ test_service() {
     local service="$1"
 
     systemctl is-active --quiet "$service"
-    print_result "service '$service' active" $?
+    print_result "sysemctl is-failed '$service'" $?
 }
 
 # return 0 = success, return 1 = fail
@@ -84,7 +84,7 @@ test_file "/home/student/test.sh"
 test_file "/etc/network/inerfaces"
 
 test_service "docker"
-test_service "sshd"
+test_service "system.slice"
 
 # Custom test example
 any_custom_test
